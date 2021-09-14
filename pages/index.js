@@ -8,7 +8,7 @@ export default function Home () {
         <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-        <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@900&family=Open+Sans&display=swap" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@900&family=Open+Sans&display=auto" rel="stylesheet" />
       </Head>
       <header className="flex flex-col justify-end items-center  h-screen mx-auto bg-gray-800">
         <div className="space-y-5 mb-auto mt-auto">
