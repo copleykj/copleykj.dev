@@ -10,6 +10,14 @@ export default function Home () {
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@900&family=Open+Sans&display=swap" rel="stylesheet" />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-KDGSMVESE9"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-KDGSMVESE9');
+        </script>
       </Head>
       <header className="flex flex-col justify-end items-center  h-screen mx-auto bg-gray-800">
         <div className="space-y-5 mb-auto mt-auto">
